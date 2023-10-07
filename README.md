@@ -34,7 +34,7 @@ git clone https://github.com/amandeepsirohi/SOS-Call-Based-System.git
 > - Ensure that the GSM and GPS modules are powered up and properly connected.<br/> 
 > - Upload the code to the Arduino.<br/> 
 
-## Usage
+## Starting Setup
 > - Power up the Arduino with the required power source.<br/> 
 > - Press the push button to trigger the SOS call.<br/> 
 > - The GSM module will establish a connection and send an SOS message to predefined contacts.<br/> 
