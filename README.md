@@ -1,5 +1,5 @@
 # SOS-Call-Based-System
-This project implements an SOS call system using Arduino. It is designed to send an emergency distress signal (SOS) to predefined contacts when activated. This can be a crucial safety feature in situations where immediate help is required.
+This project implements an SOS call system using Arduino UNO. It is designed to send an emergency distress signal (SOS) to predefined contacts when activated. This can be a crucial safety feature in situations where immediate help is required.
 
 Architecture of the circuit
 ![Screenshot_20230827_132913](https://github.com/amandeepsirohi/SOS-Call-Based-System/assets/125798090/89dba9b2-d4df-4e0b-bafd-0a8ebef643b3)
